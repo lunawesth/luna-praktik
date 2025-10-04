@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sen:wght@400..800&display=swap");
 
 @theme {
   --color-green: #b3e770;
@@ -24,7 +24,6 @@
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 700;
     color: #262626;
-    /* color: #fbead8; */
   }
 
   h3 {
@@ -32,17 +31,16 @@
     line-height: 2.5;
     font-size: 20px;
     color: #262626;
-    /* color: #fbead8; */
   }
 
   h4 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Sen", sans-serif;
     line-height: 2;
     font-size: 18px;
   }
 
   p {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Sen", sans-serif;
     font-weight: 400;
     line-height: 1.8;
     font-size: 16px;
