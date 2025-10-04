@@ -2,12 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
 @theme {
-  --color-cream: #fffeef;
-  --color-green: #c6e3a1;
-  --color-orange: #ee583f;
+  --color-green: #b3e770;
   --color-pink: #f7b3cc;
   --color-border: #7f7f7f;
   --color-darkgreen: #7c8e71;
+  --color-yellow: #f7fc00;
+  --color-dark: #262626;
 }
 
 @layer base {
